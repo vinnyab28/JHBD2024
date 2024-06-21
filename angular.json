@@ -44,7 +44,6 @@
 						"outputPath": "docs",
 						"index": "src/index.html",
 						"main": "src/main.ts",
-						"baseHref": "JHBD2024",
 						"polyfills": ["zone.js"],
 						"tsConfig": "tsconfig.app.json",
 						"inlineStyleLanguage": "scss",
