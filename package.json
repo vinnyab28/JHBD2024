@@ -4,7 +4,7 @@
 	"scripts": {
 		"ng": "ng",
 		"start": "ng serve",
-		"build": "ng build --output-path docs --base-href /JHBD2024/",
+		"build": "ng build --base-href /JHBD2024/ --extract-licenses=false",
 		"watch": "ng build --watch --configuration development"
 	},
 	"private": true,
